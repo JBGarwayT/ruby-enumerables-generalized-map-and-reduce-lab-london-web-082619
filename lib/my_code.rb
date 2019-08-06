@@ -17,5 +17,6 @@ def reduce (array, starting_point = 0)
     new_value += yield(array[i])
     i += 1
   end
+  new_value
 end
     
