@@ -10,4 +10,4 @@ def map (array)
 end
 
 #my own reduce
-def reduce (array)
+def reduce (array, starting_value = 0)
