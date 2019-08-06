@@ -1,5 +1,5 @@
 #my own map
-def map(array)
+def map
   yield
 end 
 
