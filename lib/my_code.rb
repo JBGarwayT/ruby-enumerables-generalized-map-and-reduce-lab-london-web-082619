@@ -3,4 +3,4 @@ def map
   yield
 end 
 
-map {|n| n * -1}
+map {|array| array * -1}
