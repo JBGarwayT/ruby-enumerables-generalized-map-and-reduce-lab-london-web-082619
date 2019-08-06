@@ -1,2 +1,2 @@
 #my own map
-map 
+map {|n| n * -1}
