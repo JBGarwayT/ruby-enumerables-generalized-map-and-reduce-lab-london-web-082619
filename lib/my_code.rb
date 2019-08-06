@@ -1,6 +1,9 @@
 #my own map
 def map (array)
-  i = 0
+  yield
+end
+ 
+ do i = 0
   new_array = []
   x = yield
   while i < array.length do
