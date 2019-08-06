@@ -12,6 +12,5 @@ end
 #my own reduce
 def reduce (array, stating_point = 0)
   i = 0
-  new_array = []
   while i < array.length do
     
